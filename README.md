@@ -4,8 +4,8 @@
 
 <h2>Project Workflow</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="workflow_diagram.png" alt="Workflow Diagram" width="300"/>
-    <img src="rag.webp" alt="RAG Diagram" width="300"/>
+    <img src="workflow_diagram.png" alt="Workflow Diagram" width="auto"/>
+    <img src="rag.webp" alt="RAG Diagram" width="auto"/>
 </div>
 <h3>1. Web Scraping (WebBaseLoader): Extracts raw text from URLs</h3>
 <pre>
