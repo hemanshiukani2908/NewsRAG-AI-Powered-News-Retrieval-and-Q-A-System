@@ -3,7 +3,10 @@
 ![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-brightgreen.svg)  ![LangChain](https://img.shields.io/badge/LangChain-💬-blue)  ![FAISS](https://img.shields.io/badge/FAISS-🔍-orange)  ![Transformers](https://img.shields.io/badge/Transformers-🤗-yellow)  ![SBERT](https://img.shields.io/badge/SBERT-📜-red)
 
 <h2>Project Workflow</h2>
-<img src="workflow_diagram.png" alt="Workflow Diagram" width="300"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="workflow_diagram.png" alt="Workflow Diagram" width="300"/>
+    <img src="rag.webp" alt="RAG Diagram" width="300"/>
+</div>
 <h3>1. Web Scraping (WebBaseLoader): Extracts raw text from URLs</h3>
 <pre>
 from langchain_community.document_loaders import WebBaseLoader
