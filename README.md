@@ -4,7 +4,6 @@
 
 <h2>Project Workflow</h2>
 <img src="workflow_diagram.png" alt="Workflow Diagram" width="300"/>
-<br><br>
 <h3>1. Web Scraping (WebBaseLoader): Extracts raw text from URLs</h3>
 <pre>
 from langchain_community.document_loaders import WebBaseLoader
