@@ -106,6 +106,7 @@ from transformers import pipeline
 
 
 <div align="center">
+  <h2>My Application Using RAG</h2>
   <img src="https://github.com/hemanshiukani2908/NewsRAG-AI-Powered-News-Retrieval-and-Q-A-System/blob/main/app_UI/app_1.png" alt="App UI 1" width="900" height="450"/>
   <br><br>
   <img src="https://github.com/hemanshiukani2908/NewsRAG-AI-Powered-News-Retrieval-and-Q-A-System/blob/main/app_UI/app_2.png" alt="App UI 2" width="900" height="450"/>
