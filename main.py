@@ -41,7 +41,7 @@ def main():
     with col1:
         st.title("News Research Application")
     with col2:
-      image = Image.open("./image.png") # Replace with actual path
+      image = Image.open("image.png") # Replace with actual path
       st.image(image, width=40)
 
     # sidebar title
